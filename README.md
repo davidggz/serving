@@ -12,7 +12,7 @@ Knative Serving builds on Kubernetes to support deploying and serving of
 applications and functions as serverless containers. Serving is easy to get
 started with and scales to support advanced scenarios.
 
-The Knative Serving project provides middleware primitives that enable:
+The Knative Serving project provides middleware primitives that enable: HELLO
 
 - Rapid deployment of serverless containers
 - Automatic scaling up and down to zero
